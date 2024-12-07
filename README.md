@@ -71,9 +71,7 @@ docker run -d --name nextcloud -p 8080:80 nextcloud
 
 ### 4. Access Nextcloud  
 Open a web browser and go to:  
-```  
-http://localhost:8080  
-```  
+http://localhost:8080   
 Follow the setup instructions to configure the Nextcloud instance.  
 
 ---
