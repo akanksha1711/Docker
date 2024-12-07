@@ -45,16 +45,19 @@ Ensure the following software is installed on your machine:
 Clone this repository to your local machine:  
 ```bash  
 git clone https://github.com/akanksha1711/Docker  
-cd Docker  
+cd repo-name  
 ```  
 
 ### 2. Pull the Nextcloud Docker Image  
 The required image is pulled automatically when the container is created.  
+```bash  
+docker pull nextcloud  
+``` 
 
 ### 3. Run the Docker Container  
 Use the following commands to set up and run the Nextcloud container:  
 
-#### Option 1: Create a default Nextcloud container  
+#### Create a default Nextcloud container  
 ```bash  
 docker run -d --name nextcloud -p 8080:80 nextcloud  
 ```  
@@ -70,7 +73,7 @@ Follow the setup instructions to configure the Nextcloud instance.
 
 ## Usage  
 1. Navigate to the Nextcloud interface via your browser.  
-2. Log in to the system using the credentials set during the setup process.  
+2. Customize the system for your CRM Needs.  
 3. Upload files, create folders, and manage user accounts.  
 4. Explore Nextcloud's apps for extended functionality, such as calendar, notes, or tasks.  
 
