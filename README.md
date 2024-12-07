@@ -34,7 +34,7 @@ This project deploys a Nextcloud instance using Docker containers, leveraging th
 
 ## Prerequisites  
 Ensure the following software is installed on your machine:  
-- Docker (version 20.10 or later recommended).
+- [Docker](https://www.docker.com/products/docker-desktop/) (version 20.10 or later recommended).
 ![Screenshot 2024-12-07 232750](https://github.com/user-attachments/assets/9600202f-0248-4b8d-9bb9-fcdc10b948f8)
 
 ---
