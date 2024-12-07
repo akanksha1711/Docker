@@ -22,7 +22,7 @@ This project deploys a Nextcloud instance using Docker containers, leveraging th
 ## Technologies Used  
 - **Nextcloud**: Open-source file-sharing and collaboration platform.
 ![Screenshot 2024-12-07 232337](https://github.com/user-attachments/assets/10ab0531-d079-425d-bee2-842db7806894)
-![Screenshot 2024-12-07 232518](https://github.com/user-attachments/assets/6d3bafa9-287c-4e6e-b296-a13a6f7d9fff)
+![Screenshot 2024-12-07 234614](https://github.com/user-attachments/assets/7ec0bed8-ab97-4b39-a293-065dc928ec4d)
 
 - **Docker**: Containerization platform.
 ![Screenshot 2024-12-07 233728](https://github.com/user-attachments/assets/d892e6b6-15bd-468f-916a-7cff6878a11d)
